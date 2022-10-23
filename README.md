@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Srilakshmi, Computer Science and Engineering student at Model Engineering
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Front End projects to enhance my skills
