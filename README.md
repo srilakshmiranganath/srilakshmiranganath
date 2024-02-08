@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srilakshmi Ranganath</h1>
+<h1 align="center">Hi 👋, I'm Srilakshmi</h1>
 <h3 align="center">An enthusiastic developer</h3>
 
 - 🔭 I’m currently working on **Number Plate Detector using ML**
