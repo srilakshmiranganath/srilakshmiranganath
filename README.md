@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Srilakshmi</h1>
 <h3 align="center">An enthusiastic developer</h3>
 
-- 🔭 I’m currently working on **Number Plate Detector using ML**
+- 🔭 I’m currently working on **Text Summarizer**
 
-- 🌱 I’m currently learning **Tensorflow, Node.js**
+- 🌱 I’m currently learning **Machine Learning Libraries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
